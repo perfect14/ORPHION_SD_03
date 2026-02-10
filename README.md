@@ -348,9 +348,9 @@ The system is **robust, scalable, and ready for real-world use** with the abilit
 
 ---
 ## Screenshots
-Empty state (/src/assets/EmptyState.png)
+Empty state (src/assets/EmptyState.png)
 
-Added Contact(/src/assets/AddedContact.png)
+Added Contact(src/assets/AddedContact.png)
 
 **Status:** ✅ Complete 
 
