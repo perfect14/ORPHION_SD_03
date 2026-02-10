@@ -347,9 +347,13 @@ This Contact Management System is a **complete, portfolio-ready application** th
 The system is **robust, scalable, and ready for real-world use** with the ability to manage hundreds of contacts efficiently.
 
 ---
+## Screenshots
+Empty state (./src/assets/EmptyState.png)
+
+Added Contact(./src/assets/AddedContact.png)
 
 **Status:** ✅ Complete 
 
 **Last Updated:** February 10, 2026
 
-**Version:** 1.0.0
+
